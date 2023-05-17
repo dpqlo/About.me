@@ -1,0 +1,84 @@
+---
+title: "First Knit"
+author: Denise Pena 
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+    toc_depth: 5
+date: "`r Sys.Date()`"   
+---
+
+# A Little Survey
+
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
+
+## A short history of you.  
+Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+  
+### my answer     
+  i attended Eastside Highschool and graduated there aswell. i prefer math over english,i did best in my econmic class.
+
+     
+
+
+## Your computer and your and its capability?  
+ For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
+
+### my answer   
+i  have a macbook air and im ok with technology i only got it a few years ago. my internet connection is pretty stable but i give myself a 5/10 
+   
+
+## Others and You?   
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
+
+### my answer  
+i like my name,so denise. 
+  
+   
+ 
+
+
+
+
+## Aspirations?   
+What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+
+### my answer    
+i want to graduate with a masters degree in buissness, i also want to own realestate aswell, i will buy the properties by investing. 
+ 
+
+
+
+
+## Past adventures?  
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+
+### my answer     
+  ive went to the uk, i would like to travel different places in europe, i also want to visit mexico and canada. no ive never went to the miletary nor do i want to. if i hadto go i would choose airforce. 
+   
+  
+
+
+
+
+## Why are you taking Statistics?  
+Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
+What grade do you need to attain in stats to not upset your future plans, What is your plan?  
+ 
+
+### my answer     
+  
+   i do like math but only when i understand it, i dont have a grade goal but i want to do the best i can 
+ 
+
+
+
+
+
+
+  
+
+
+
+
